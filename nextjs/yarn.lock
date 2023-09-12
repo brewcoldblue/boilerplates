@@ -10121,6 +10121,7 @@ __metadata:
     react-dom: 18.2.0
     storybook: 7.3.2
     typescript: 5.1.6
+    webpack: ^5.88.2
   languageName: unknown
   linkType: soft
 
@@ -13289,7 +13290,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack@npm:5":
+"webpack@npm:5, webpack@npm:^5.88.2":
   version: 5.88.2
   resolution: "webpack@npm:5.88.2"
   dependencies:
